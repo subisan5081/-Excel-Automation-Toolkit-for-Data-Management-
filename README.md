@@ -49,9 +49,9 @@ This project is designed to simplify data management tasks using Microsoft Excel
   2. =SUM(03:0151) = $937.53
 
   3. =SUM(13:1151) =463
-##🏗️ Future Enhancements
+## 🏗️ Future Enhancements
 Cloud integration for Google Sheets compatibility.
 AI-based predictive analytics using Excel.
 Advanced visualization dashboards.
-##📧 Contact
+## 📧 Contact
 If you have any questions or suggestions, feel free to reach out at [subisan5081@gmail.com].
